@@ -20,3 +20,6 @@
 # 더블 버퍼링 적용 및 도형 속성 변경
 - 화면 렌더링 후 윈도우 크기 조절 시 깜빡이는 현상이 나타나지 않도록 반드시 더블 버퍼링 기능 적용
 - 특정 도형을 선택한 후 속성을 변경했을 때 즉시 반영 ( 색상, 크기, 폭과 높이 등 )
+
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/362769df-56f1-449f-ad34-d55d72beab06/e62813e9-ddf3-4424-bd1e-6b8db115480d/image.png)
