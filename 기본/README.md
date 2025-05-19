@@ -22,4 +22,4 @@
 - 특정 도형을 선택한 후 속성을 변경했을 때 즉시 반영 ( 색상, 크기, 폭과 높이 등 )
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/362769df-56f1-449f-ad34-d55d72beab06/e62813e9-ddf3-4424-bd1e-6b8db115480d/image.png)
+![image](https://github.com/user-attachments/assets/5f32fe8d-1c52-415e-8828-eb36cc0dea32)
